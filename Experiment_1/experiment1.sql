@@ -24,7 +24,7 @@ create table LIBRARY_VISITOR_USER (
 );
 
 insert into LIBRARY_VISITOR_USER 
-values(101, 'AKASH SHARMA', 17, 'a@gmail.com');
+values(101, 'JAY VARSHNEY', 17, 'a@gmail.com');
 
 alter table LIBRARY_VISITOR_USER
 drop column EMAIL;
