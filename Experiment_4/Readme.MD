@@ -56,28 +56,28 @@ Table created successfully.
 Rows inserted successfully.
 
 **Step 3 – Display Violation Status of Each Department**  
-![Step 3: Violation Status](Screenshots/s3.png)
+![Step 3: Violation Status](screenshots/s3.png)
 
 **Step 4 – Add `approval_status` Column**  
-![Step 4: Add Column](Screenshots/s4.png)
+![Step 4: Add Column](screenshots/s4.png)
 
 **Step 5 – Update `approval_status` Based on Violation Count**  
-![Step 5: Update Column](Screenshots/s5.png)
+![Step 5: Update Column](screenshots/s5.png)
 
 **Step 6 – Display Updated `schema_violations` Table**  
-![Step 6: Updated Table](Screenshots/s6.png)
+![Step 6: Updated Table](screenshots/s6.png)
 
 **Step 7 – PL/SQL Block Output (System Status Message)**  
-![Step 7: PL/SQL Output](Screenshots/s7.png)
+![Step 7: PL/SQL Output](screenshots/s7.png)
 
 **Step 8 – Create `students` Table**  
 Table created successfully.
 
 **Step 9 – Insert Data into `students` Table**  
-![Step 9: Insert Students](Screenshots/s8.png)
+![Step 9: Insert Students](screenshots/s8.png)
 
 **Step 10 – Display Student Grades**  
-![Step 10: Student Grades](Screenshots/s9.png)
+![Step 10: Student Grades](screenshots/s9.png)
 
 **Step 11 – Order `schema_violations` by Severity**  
-![Step 11: Ordered Violations](Screenshots/s10.png)
+![Step 11: Ordered Violations](screenshots/s10.png)
