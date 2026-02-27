@@ -77,19 +77,19 @@ In real-world enterprise applications, database queries often return multiple ro
 
 ## Step-wise Output
 **Step 1 – Create employee Table**  
-![Step 1: Create Table](Screenshots/s1.png)
+![Step 1: Create Table](Screenshot/s1.png)
 
 **Step 2 – Insert Data into employee Table**  
-![step 2: Insert Data](Screenshots/s2.png)  
+![step 2: Insert Data](Screenshot/s2.png)  
 
 **Step 3 – Implicit Cursor Operation**  
-![step 3: Implicit Cursor](Screenshots/s3.png) 
+![step 3: Implicit Cursor](Screenshot/s3.png) 
 
 **Step 4 – Explicit Cursor Declaration and Fetch**  
-![step 4: Explicit Cursor](Screenshots/s4.png)
+![step 4: Explicit Cursor](Screenshot/s4.png)
 
 **Step 5 – Process Records Using Cursor Attributes**  
-![step 5: Cursor Attributes](Screenshots/s5.png)
+![step 5: Cursor Attributes](Screenshot/s5.png)
 
 ---
 
